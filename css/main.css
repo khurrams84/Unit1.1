@@ -1,6 +1,12 @@
-body 
+body
 {
-	margin: 5; 
-	padding: 5; 
+	margin: 5;
+	padding: 5;
 	font-family: georgia, times, "times new roman", serif;
 }
+/*.flag-image {*/
+	/*overflow:hidden;*/
+	/*background-size: cover;*/
+	/*background-position: center;*/
+	/*background-image: url("https://scontent-iad.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10858062_10153149257849179_6482653642653260513_n.jpg?oh=8806cf047917b80168c0f475ef00756d&oe=55C01A1C");*/
+/*}*/
